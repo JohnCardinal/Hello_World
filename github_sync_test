@@ -1,2 +1,4 @@
 testing = [1,2,3]
 print testing
+test_3 = [7,8,9]
+print test_3
